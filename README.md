@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Plowh<br><br>🔭 I'm currently working on a password generator with a storage feature.<br>🌱 I'm currently learning C++
+Hi, I'm Plowh<br><br>🔭 I'm currently working on a clipboard manager.<br>🌱 I'm currently learning C++
 
 
 # 💻 Tech Stack:
