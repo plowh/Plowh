@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hi, I'm plowh.<br>I'm currently learning Python
+# 📁 Featured Projects:
+[![PrefetchAnalyzer](https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=PrefetchAnalyzer&theme=github_dark)](https://github.com/plowh/PrefetchAnalyzer)
+[![Vaultify](https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=Vaultify&theme=github_dark)](https://github.com/plowh/Vaultify)
+
 
 
 # 💻 Tech Stack:
