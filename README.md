@@ -1,6 +1,13 @@
 # 📁 Featured Projects:
-[![PrefetchAnalyzer](https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=PrefetchAnalyzer&theme=github_dark)](https://github.com/plowh/PrefetchAnalyzer)
-[![Vaultify](https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=Vaultify&theme=github_dark)](https://github.com/plowh/Vaultify)
+
+<p align="center">
+  <a href="https://github.com/plowh/PrefetchAnalyzer">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=PrefetchAnalyzer&theme=dark&layout=compact&border_radius=10" />
+  </a>
+  <a href="https://github.com/plowh/Vaultify">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=Vaultify&theme=dark&layout=compact&border_radius=10" />
+  </a>
+</p>
 
 
 
