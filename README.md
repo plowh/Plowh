@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/plowh/PrefetchAnalyzer">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=PrefetchAnalyzer&theme=dark&layout=compact&border_radius=10" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=PrefetchAnalyzer&theme=dark&layout=compact&border_radius=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
   <a href="https://github.com/plowh/Vaultify">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=Vaultify&theme=dark&layout=compact&border_radius=10" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=Vaultify&theme=dark&layout=compact&border_radius=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
 </p>
 
