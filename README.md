@@ -26,11 +26,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=plowh&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="plowh's GitHub Stats" />  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=plowh&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-
-
-
-
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/denies5) 
