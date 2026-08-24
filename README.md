@@ -18,11 +18,3 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=plowh&repo=Vaultify&theme=dark&layout=compact&border_radius=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
 </p>
-
-
-# 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/plowh">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=plowh&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="plowh's GitHub Stats" />  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=plowh&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
